@@ -77,6 +77,7 @@ Maintained by Manish Pareek
 | [0069-sqrtx](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1137-n-th-tribonacci-number](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -111,6 +112,7 @@ Maintained by Manish Pareek
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Counting
@@ -125,6 +127,7 @@ Maintained by Manish Pareek
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0326-power-of-three) |
 ## Memoization
 |  |
