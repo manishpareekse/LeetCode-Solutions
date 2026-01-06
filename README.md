@@ -50,6 +50,7 @@ Maintained by Manish Pareek
 | [0069-sqrtx](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Hash Table
 |  |
 | ------- |
