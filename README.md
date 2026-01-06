@@ -33,6 +33,7 @@ Maintained by Manish Pareek
 | [0412-fizz-buzz](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0796-rotate-string) |
+| [1528-shuffle-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Array
@@ -47,6 +48,7 @@ Maintained by Manish Pareek
 | [0350-intersection-of-two-arrays-ii](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1528-shuffle-string](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
