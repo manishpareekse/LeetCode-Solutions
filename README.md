@@ -25,6 +25,7 @@ Maintained by Manish Pareek
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0905-sort-array-by-parity](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Sorting
@@ -34,5 +35,6 @@ Maintained by Manish Pareek
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
