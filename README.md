@@ -52,6 +52,7 @@ Maintained by Manish Pareek
 | [0189-rotate-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Hash Table
 |  |
@@ -72,4 +73,8 @@ Maintained by Manish Pareek
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
