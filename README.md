@@ -49,6 +49,7 @@ Maintained by Manish Pareek
 | [0066-plus-one](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -68,6 +69,7 @@ Maintained by Manish Pareek
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -99,6 +101,7 @@ Maintained by Manish Pareek
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -132,6 +135,7 @@ Maintained by Manish Pareek
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3467-transform-array-by-parity](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 ## String Matching
@@ -157,4 +161,8 @@ Maintained by Manish Pareek
 | [0412-fizz-buzz](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/manishpareekse/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
